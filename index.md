@@ -18,23 +18,31 @@ A hands-on technology leader, disruptor and change agent who is not afraid to ch
 
 ## Specialities and Interests
 
-Digital agile/iterative transformation, technical innovation, leadership, cloud native applications, event-driven architecture, domain-driven design, continuous delivery, employee development, distributed/offshore teams
+Digital agile/iterative transformation, technical innovation, leadership, cloud native applications, event-driven architecture, domain-driven design, continuous delivery, employee development, distributed/offshore teams.
 
 ## Experience
 
 ### Currently
+
 `Since 2015`
-__Distinguished Engineer__ and __Group Lead__ for the architecture, design and delivery of the next generation, cloud-native platform services and applications at **Barclays, US**. Member of the technology and product architecture teams to evaluate the use of new ideas, products and designs for new project initiatives. Successfully led and delivered the Consumer Lending line of business. Currently playing the dual role of lead architect for the technology platform and also leading the migration of the Credit Card business onto the newly built platform.
+* __Distinguished Engineer__ and __Group Lead__ for the architecture, design and delivery of the next generation, cloud-native platform services and applications at **Barclays, US**.
 
 `Responsibilities`
- * Testing test
- * Testing test
+* __Group__ and __Technical Lead__ for the Consumer Lending line of business
+* __Technical Lead__ for the migration of the Credit Cards business services onto the next generation platform 
+* __Chief Architect__ for the Cards Next Generation Platform
+
+`Achievements`
+* Led and successfully delivered the $100M+ Consumer Lending Program on time and under-budget
+* Led the conception and delivery of the Barclays US next generation cloud-native technology program
+* One of 22 Distinguished Engineers within a 25K+ strong IT organization
 
 ### Previously
 `2002-2015` 
 __ThoughtWorks Inc.__
 Played a variety of technology leadership roles ranging from developer, architect to __Technology Principal__ responsible for helping C-level executives and their teams deliver complex software solutions using iterative methods. Led agile transformation journeys at several clients in varied domains such as Banking, Education, Finance, Airlines, Healthcare, Retail, etc. Specialist in the application of eXtreme Programming (XP) methods to rapidly and reliably architect and deliver complex software solutions.
 
+### Prior Experience
 `2001-2002`
 __Citicorp Overseas Software Ltd.__
 Software Developer on the Trade Record Information Management System (TRIMS).
