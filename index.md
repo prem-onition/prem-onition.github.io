@@ -33,9 +33,9 @@ Digital agile/iterative transformation, technical innovation, leadership, cloud 
 * __Chief Architect__ for the Cards Next Generation Platform
 
 `Achievements`
-* Led and successfully delivered the $100M+ Consumer Lending Program on time and under-budget
-* Led the conception and delivery of the Barclays US next generation cloud-native technology program
-* One of 22 Distinguished Engineers within a 25K+ strong IT organization
+* __Led__ and __successfully__ delivered the __$100M+ Consumer Lending Program__ on time and under-budget working with teams distributed across two continents
+* __Led__ the __conception__ and __delivery__ of the Barclays US next generation cloud-native technology program (codenamed Cobalt)
+* One of 22 __Distinguished Engineers__ within a 25K+ strong IT organization
 
 ### Previously
 `2002-2015` 
@@ -53,32 +53,30 @@ Software Engineer and Tech Lead of the Container Management module in the Ports 
 
 ## Presentations
 
-### Videos
-
-`Feb 2019` <a href="" target="_blank">__Migrating to a Distributed Service Ecosytem__</a> - O'Reilly Software Architecture, New York
+`Feb 2019` <a href="https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/71965" target="_blank">__Migrating to a Distributed Service Ecosytem__</a> - O'Reilly Software Architecture, New York
 
 `Sep 2018` __Microservices from the Trenches - Part Deux__ - AxonIQ, Amsterdam
 
 `Sep 2017` <a href="https://www.youtube.com/watch?v=rceUG8OMVwY" target="_blank">__Microservices from the Trenches__</a> - AxonIQ, Amsterdam
 
-`Nov 2014` <a href="https://www.youtube.com/watch?v=WBhldH6TvXU" target="_blank">__Functional Programming in Java__</a> - FunctionalConf, Bangalore
+`Jun 2017` <a href="https://www.meetup.com/PhillyJUG/events/239252925/" target="_blank">__Microservice Design Patterns__</a> - Philly JUG
 
-### Links
+`Oct 2016` <a href="https://phillyjug.github.io/2015/11/03/premboot/index.html" target="_blank">__Succeeding with Spring Boot__</a> - Philly JUG
+
+`Sep 2015` <a href="https://phillyjug.github.io/2014/01/29/fpjavaprem/index.html" target="_blank">__Functional Concepts in Java__</a> - Philly JUG
+
+`Nov 2014` <a href="https://www.slideshare.net/premanandc/functional-30622514" target="_blank">__Functional Programming in Java__</a> - FunctionalConf, Bangalore
+
+`Jan 2012` <a href="https://www.slideshare.net/premanandc/functional-testing-patterns-10987452" target="_blank">__Agile Testing Patterns__</a> - Agile Philly
+
+### Videos
 
 `Sep 2017`
-<a href="https://www.youtube.com/watch?v=rceUG8OMVwY" target="_blank">Microservices from the Trenches - Experiences at BarclayCard</a>
+<a href="https://www.youtube.com/watch?v=rceUG8OMVwY" target="_blank">Microservices from the Trenches</a> - Experiences at BarclayCard
 
-`2014`
-<a href="https://www.slideshare.net/premanandc/functional-30622514" target="_blank">Functional Programming Using Java 8 - Philly JUG</a>
+`Oct 2014`
+<a href="https://www.youtube.com/watch?v=WBhldH6TvXU" target="_blank">Functional Programming Using Java 8</a> - Functional Conf
 
-`2012`
-<a href="https://www.slideshare.net/premanandc/functional-testing-patterns-10987452" target="_blank">Functional Testing Patterns - Agile Philly</a>
-
-`2017`
-<a href="https://www.meetup.com/PhillyJUG/events/239252925/" target="_blank">Microservice Design Patterns - Philly JUG</a>
-
-`2015`
-<a href="https://phillyjug.github.io/2015/11/03/premboot/index.html" target="_blank">Succeeding with Spring Boot - Philly JUG</a>
 
 ## Education
 
